@@ -1,6 +1,6 @@
 # Paul Burt's BG Demo
 
-Edit /views/pages/index.ejs
+Edit views/pages/index.ejs
 
 Look for 
 
